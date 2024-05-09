@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=YourQuotes?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=YourQuotes&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### GitHub Statistics
 
