@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=YourQuotes&author=Someone&type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+e[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quotes&author=Someone&type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### GitHub Statistics
 
