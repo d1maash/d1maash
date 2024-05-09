@@ -1,4 +1,4 @@
-e[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Your Quotes"&author=Someone&type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+e[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=To achieve your dream, you'll have to destroy anothere&author=Someone&type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### GitHub Statistics
 
