@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer / Web Developer from Kazakhstan, Atyrau</h3>
 
 - 🔭 I’m currently working on [(West Development Company)](https://wdc.kz/)
-
+ 
 - 🌱 I’m currently learning **iOS development (Swift)**
 
 - 👨‍💻 My Web-site [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
