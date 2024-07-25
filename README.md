@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, node.js, html/css/js, php**
 
-- 📫 How to reach me **dimash-aizharykov@join-way.com**
+- 📫 How to reach me **dimash-aizharykov@join-way.com**  
 
 - 📄 Know about my experiences [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
 
