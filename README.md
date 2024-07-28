@@ -28,8 +28,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1maash&label=Profile%20views&color=0b1013&style=flat" alt="d1maash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1maash" alt="d1maash" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1maash&show_icons=true&theme=dark&title_color=fafafa&locale=en&layout=compact" alt="d1maash" /></p>
-
 
 
 
