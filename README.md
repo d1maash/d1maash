@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dinmukhanbet (Dimash) Aizharykov</h1>
 <h3 align="center">Software Engineer / Web Developer from Kazakhstan, Atyrau</h3>
-
+ 
 - 🔭 I’m currently working on [(West Development Company)](https://wdc.kz/)  
   
 - 🌱 I’m currently learning **iOS development (Swift)**
