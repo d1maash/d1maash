@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer / Web Developer from Kazakhstan </h3>
   
 - 🔭 I’m currently working for [(Join - Way)](https://join-way.com/)  
-     
+      
 - 🌱 I’m currently learning **iOS development (Swift)** 
  
 - 👨‍💻 My Web-site [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
