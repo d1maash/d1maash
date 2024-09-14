@@ -7,7 +7,7 @@
  
 - 👨‍💻 My Web-site [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
 
-- 💬 Ask me about **react, node.js, html/css/js, php**
+- 💬 Ask me about **react, node.js, html/css/js, php** 
 
 - 📫 How to reach me **dimash-aizharykov@join-way.com**  
 
