@@ -29,7 +29,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1maash" alt="d1maash" /></a> </p>
 
-
+PORT=22 && docker run -d --rm --name local-vps-$PORT -p $PORT:$PORT atlekbai/local-vps $PORT
 
 <!--
 **d1maash/d1maash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
