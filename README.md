@@ -29,10 +29,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1maash" alt="d1maash" /></a> </p>
 
-USER_ID=535519457
-
-curl -s https://stepik.org:443/api/users/$USER_ID | jq -r '.users[0].join_date'
-
 
 <!--
 **d1maash/d1maash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
