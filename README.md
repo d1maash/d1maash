@@ -3,7 +3,7 @@
    
 - 🔭 I’m currently working for [(Join - Way)](https://join-way.com/)  
       
-- 🌱 I’m currently learning **iOS development (Swift)** 
+- 🌱 I’m currently learning **DevOps Engineering** 
  
 - 👨‍💻 My Web-site [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org) 
 
