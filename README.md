@@ -29,6 +29,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1maash" alt="d1maash" /></a> </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
