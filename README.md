@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
 
 - ⚡ Quote **To achieve your dream, you'll have to destroy another**
+- 
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
