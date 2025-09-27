@@ -14,8 +14,7 @@
 - 📄 Know about my experiences [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
 
 - ⚡ Quote **To achieve your dream, you'll have to destroy another**
-- 
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinmukhanbet-aizharykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinmukhanbet (dimash) aizharykov" height="30" width="40" /></a>
