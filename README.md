@@ -4,7 +4,7 @@
 - 🔭 I’m currently working for [(Join - Way)](https://join-way.com/)  
       
 - 🌱 I’m currently learning **DevOps Engineering** 
- 
+  
 - 👨‍💻 My Web-site [https://aizharykov.com](https://aizharykov.com) 
 
 - 💬 Ask me about **react, node.js, html/css/js, php** 
