@@ -32,7 +32,8 @@
 ---
 
 ## Tech Stack
-
+### The tools I use to build, design, automate & ship
+<br>
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" />
