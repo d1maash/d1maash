@@ -1,70 +1,76 @@
-<h1 align="center">Hello 👋, I'm Dinmukhanbet (Dimash) Aizharykov</h1>
-<h3 align="center">Software Engineer / Web Developer from Kazakhstan </h3>
-   
-- 🔭 I’m currently working for [(Join - Way)](https://join-way.com/)    
-       
-- 🌱 I’m currently learning **DevOps Engineering** 
-  
-- 👨‍💻 My Web-site [https://aizharykov.com](https://aizharykov.com) 
- 
-- 💬 Ask me about **react, node.js, html/css/js, php**  
+# Hi, I'm Dimash 👋  
+**Engineer • Founder • Designer • Builder**
 
-- 📫 How to reach me **dimash-aizharykov@join-way.com**  
+I build products at the intersection of **technology, design, and automation** —  
+crafting premium web experiences, launching ambitious startups, and engineering real systems.
 
-- 📄 Know about my experiences [https://dimash-aizharykov.is-great.org](https://dimash-aizharykov.is-great.org)
+---
 
-- ⚡ Quote **To achieve your dream, you'll have to destroy another**
+## 🚀 What I’m Building
+- **Kelbetty AI** — AI-powered document editing platform  
+- **JOIN-WAY** — premium web studio (50+ completed projects)  
+- **NOOMI** — intelligent finance-tracking mobile app  
+- **GIC** — industrial automation (DCS/SIS/SCADA, PLC, FAT/SAT)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dinmukhanbet-aizharykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinmukhanbet (dimash) aizharykov" height="30" width="40" /></a>
-<a href="https://instagram.com/dimash_aizharykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimash_aizharykov" height="30" width="40" /></a>
+---
+
+## 📊 GitHub Activity (Dynamic)
+
+### 👀 Visitors  
+![visitors](https://komarev.com/ghpvc/?username=d1maash&color=grey&style=for-the-badge)
+
+### 🔥 Streak  
+[![GitHub Streak](https://streak-stats.demolab.com?user=d1maash&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=transparent)
+
+### 🧩 Top Languages  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&theme=transparent)
+
+### 📉 Contribution Graph  
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&theme=github-light)
+
+### 🐍 Contribution Snake  
+![snake](https://raw.githubusercontent.com/d1maash/d1maash/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Pinned Repositories  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=d1maash&repo=kelbetty-ai&theme=transparent&hide_border=true)](https://github.com/d1maash)  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=d1maash&repo=join-way&theme=transparent&hide_border=true)](https://github.com/d1maash)
+
+---
+
+## 🛠 Tech Stack (Badges)
+<p>
+  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Go-000?style=flat&logo=go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
+  <img src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## ✨ Current Focus
+- Scaling **Kelbetty AI**  
+- Designing minimalist premium digital experiences  
+- Writing clean architecture with **Go + PostgreSQL**  
+- Building high-end visuals & motion for brand identity
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d1maash&label=Profile%20views&color=0b1013&style=flat" alt="d1maash" /> </p>
+## 📫 Connect
+**Email:** dimash@join-way.com  
+**Portfolio:** https://join-way.com  
+**X / Twitter:** https://x.com/d1maash  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1maash" alt="d1maash" /></a> </p>
+---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="100%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=d1maash&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=d1maash&theme=dark&hide_border=false" /> 
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-</p>        
-
-<!--
-**d1maash/d1maash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _“Build with taste. Ship with speed.”_
