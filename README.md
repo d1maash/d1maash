@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="left">Dimash</h1>
-<p><b>Engineer • Founder • Designer</b></p>
-<p>Building products where engineering meets aesthetics. Black & white. Minimal. Precise.</p>
+<p><b>Developer • Founder • Designer</b></p>
+<p>Building bold things with bold people.</p>
 
 ---
 
@@ -11,10 +11,10 @@
 - **NOOMI** — AI-powered finance tracker  
 ---
 
-## 📊 GitHub Activity (Black Style)
+## 📊 GitHub Activity (Black Style)![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ### 👀 Visitors  
-<img src="https://komarev.com/ghpvc/?username=d1maash&color=white&label=VISITORS" />
+<img src="[https://komarev.com/ghpvc/?username=d1maash]" />
 
 ### 🔥 Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
@@ -46,4 +46,4 @@
 
 ---
 
-_“Black. White. Precision.”_
+_“Simplicity isn’t less — it’s everything that matters.”_
