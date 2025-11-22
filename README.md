@@ -1,8 +1,7 @@
-# Dimash  
-**Engineer • Founder • Designer**
-
-I build products where **clarity, engineering, and aesthetics** meet.  
-Minimalism. Precision. High-end execution.
+<!-- Profile Header -->
+<h1 align="left">Dimash</h1>
+<p><b>Engineer • Founder • Designer</b></p>
+<p>Building products where engineering meets aesthetics. Black & white. Minimal. Precise.</p>
 
 ---
 
@@ -10,22 +9,29 @@ Minimalism. Precision. High-end execution.
 - **Kelbetty AI** — intelligent document editing  
 - **JOIN-WAY** — premium web studio (50+ projects)  
 - **NOOMI** — AI-powered finance tracker  
-- **GIC** — industrial automation (DCS / SIS / PLC / FAT / SAT)
+- **GIC** — industrial automation (DCS / SIS / PLC)
 
 ---
 
-## 📊 GitHub Activity
-![visitors](https://komarev.com/ghpvc/?username=d1maash&color=000000&style=flat-square)
+## 📊 GitHub Activity (Black Style)
 
-![Streak](https://streak-stats.demolab.com?user=d1maash&theme=default&hide_border=true&background=FFFFFF00&ring=000000&fire=000000&currStreakLabel=000000)
+### 👀 Visitors  
+<img src="https://komarev.com/ghpvc/?username=d1maash&color=white&style=flat-square&label=VISITORS" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=000000&title_color=000000)
+### 🔥 Streak  
+<img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000)
+### 📈 Stats (White Text, Black Background)
+<img src="https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&bg_color=FFFFFF&color=000000&line=000000&point=000000)
+### 🧩 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff" />
 
-![snake](https://raw.githubusercontent.com/d1maash/d1maash/output/github-contribution-grid-snake.svg)
+### 📉 Contribution Graph (Full Black)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" />
+
+### 🐍 Contribution Snake (Dark Mode)
+<img src="https://raw.githubusercontent.com/d1maash/d1maash/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
@@ -38,10 +44,10 @@ Minimalism. Precision. High-end execution.
 ---
 
 ## 📫 Contact
-**Email:** dimash-aizharykov@join-way.com  
+**Email:** dimash-aizharykov@join-way.com**  
 **X:** https://x.com/daiz4y  
-**Website:** https://join-way.com
+**Website:** https://join-way.com  
 
 ---
 
-_“Build with taste. Ship with precision.”_
+_“Black. White. Precision.”_
