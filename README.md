@@ -19,11 +19,8 @@
 ### 🔥 Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
-### 📈 Stats (White Text, Black Background)
+### 📈 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-
-### 🧩 Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff" />
 
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
