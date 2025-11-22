@@ -1,76 +1,47 @@
-# Hi, I'm Dimash 👋  
-**Engineer • Founder • Designer • Builder**
+# Dimash  
+**Engineer • Founder • Designer**
 
-I build products at the intersection of **technology, design, and automation** —  
-crafting premium web experiences, launching ambitious startups, and engineering real systems.
-
----
-
-## 🚀 What I’m Building
-- **Kelbetty AI** — AI-powered document editing platform  
-- **JOIN-WAY** — premium web studio (50+ completed projects)  
-- **NOOMI** — intelligent finance-tracking mobile app  
-- **GIC** — industrial automation (DCS/SIS/SCADA, PLC, FAT/SAT)
+I build products where **clarity, engineering, and aesthetics** meet.  
+Minimalism. Precision. High-end execution.
 
 ---
 
-## 📊 GitHub Activity (Dynamic)
+## 🚀 Building
+- **Kelbetty AI** — intelligent document editing  
+- **JOIN-WAY** — premium web studio (50+ projects)  
+- **NOOMI** — AI-powered finance tracker  
+- **GIC** — industrial automation (DCS / SIS / PLC / FAT / SAT)
 
-### 👀 Visitors  
-![visitors](https://komarev.com/ghpvc/?username=d1maash&color=grey&style=for-the-badge)
+---
 
-### 🔥 Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=d1maash&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Activity
+![visitors](https://komarev.com/ghpvc/?username=d1maash&color=000000&style=flat-square)
 
-### 📈 Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=d1maash&theme=default&hide_border=true&background=FFFFFF00&ring=000000&fire=000000&currStreakLabel=000000)
 
-### 🧩 Top Languages  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=000000&title_color=000000)
 
-### 📉 Contribution Graph  
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&theme=github-light)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000)
 
-### 🐍 Contribution Snake  
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&bg_color=FFFFFF&color=000000&line=000000&point=000000)
+
 ![snake](https://raw.githubusercontent.com/d1maash/d1maash/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📌 Pinned Repositories  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=d1maash&repo=kelbetty-ai&theme=transparent&hide_border=true)](https://github.com/d1maash)  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=d1maash&repo=join-way&theme=transparent&hide_border=true)](https://github.com/d1maash)
+## 🛠 Stack
+**Frontend:** React · Next.js · TypeScript · Tailwind · shadcn/ui  
+**Backend:** Go · Node.js · PostgreSQL · Supabase  
+**DevOps:** Docker · GitHub Actions · AWS · Helm  
+**AI:** Gemini · OpenAI · LLM Pipelines
 
 ---
 
-## 🛠 Tech Stack (Badges)
-<p>
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat&logo=vercel" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
-  <img src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
-</p>
+## 📫 Contact
+**Email:** dimash-aizharykov@join-way.com  
+**X:** https://x.com/daiz4y  
+**Website:** https://join-way.com
 
 ---
 
-## ✨ Current Focus
-- Scaling **Kelbetty AI**  
-- Designing minimalist premium digital experiences  
-- Writing clean architecture with **Go + PostgreSQL**  
-- Building high-end visuals & motion for brand identity
-
----
-
-## 📫 Connect
-**Email:** dimash@join-way.com  
-**Portfolio:** https://join-way.com  
-**X / Twitter:** https://x.com/d1maash  
-
----
-
-> _“Build with taste. Ship with speed.”_
+_“Build with taste. Ship with precision.”_
