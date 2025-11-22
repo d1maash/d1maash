@@ -29,7 +29,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" />
 
 ### 🐍 Contribution Snake (Dark Mode)
-<img src="https://raw.githubusercontent.com/d1maash/d1maash/output/github-contribution-grid-snake-dark.svg" />
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
