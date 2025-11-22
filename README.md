@@ -11,10 +11,10 @@
 - **NOOMI** — AI-powered finance tracker  
 ---
 
-## 📊 GitHub Activity (Black Style)![](https://komarev.com/ghpvc/?username=your-github-username)
+## 📊 GitHub Activity
 
 ### 👀 Visitors  
-<img src="[https://komarev.com/ghpvc/?username=d1maash]" />
+![](https://komarev.com/ghpvc/?username=d1maash)
 
 ### 🔥 Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
