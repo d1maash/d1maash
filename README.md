@@ -14,7 +14,7 @@
 ## 📊 GitHub Activity (Black Style)
 
 ### 👀 Visitors  
-<img src="https://komarev.com/ghpvc/?username=d1maash&color=white&style=flat-square&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=d1maash&color=white&label=VISITORS" />
 
 ### 🔥 Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
@@ -25,10 +25,7 @@
 ### 🧩 Top Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1maash&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff" />
 
-### 📉 Contribution Graph (Full Black)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d1maash&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" />
 
-### 🐍 Contribution Snake (Dark Mode)
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
