@@ -4,7 +4,7 @@
 <p>Building bold things with bold people.</p>
 
 ---
-
+ 
 ## 🚀 Building
 - **Kelbetty AI** — intelligent document editing  
 - **JOIN-WAY** — premium web studio (50+ projects)  
