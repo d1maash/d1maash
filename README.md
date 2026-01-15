@@ -5,7 +5,7 @@
 
 ---
   
-## 🚀 Building
+## 🚀 Building 
 - **Kelbetty AI** — intelligent document editing  
 - **JOIN-WAY** — premium web studio (50+ projects)  
 - **NOOMI** — AI-powered finance tracker  
