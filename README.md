@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hey, I'm Dimash  </h1> 
 <p><b>Developer • Founder • Designer</b></p>
 <p>Building bold things with bold people.</p>
-
+ 
 ---
   
 ## 🚀 Building 
