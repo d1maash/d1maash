@@ -6,7 +6,7 @@
 ---
   
 ## 🚀 Building 
-- **Kelbetty AI** — intelligent document editing  
+- **Kelbetty AI** — Translating pain into clinical clarity 
 - **JOIN-WAY** — premium web studio (50+ projects)  
 - **NOOMI** — AI-powered finance tracker  
 ---
