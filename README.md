@@ -11,7 +11,8 @@
 - **NOOMI** — AI-powered finance tracker  
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/d1maash)
 
 ### 👀 Visitors  
 ![](https://komarev.com/ghpvc/?username=d1maash)
@@ -21,9 +22,6 @@
 
 ### 📈 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
