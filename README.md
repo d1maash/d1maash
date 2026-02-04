@@ -23,6 +23,7 @@
 ### 📈 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=d1maash&show_icons=true&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 
+[![committers.top badge](https://user-badge.committers.top/kazakhstan/d1maash.svg)](https://user-badge.committers.top/kazakhstan/d1maash)
 
 ---
 ---
