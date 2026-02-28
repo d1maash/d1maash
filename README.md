@@ -22,7 +22,7 @@
 ---
 
 ## Contact
-**Email:** dimash-aizharykov@join-way.com**  
+**Email:** dimash-aizharykov@join-way.com  
 **X:** https://x.com/daiz4y  
 **Website:** https://join-way.com  
 
