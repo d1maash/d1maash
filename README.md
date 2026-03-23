@@ -13,7 +13,7 @@
 
 ### GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/d1maash)
-[![committers.top badge](https://user-badge.committers.top/kazakhstan/USERNAME.svg)](https://user-badge.committers.top/kazakhstan/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/kazakhstan/d1maash.svg)](https://user-badge.committers.top/kazakhstan/d1maash)
 
 ### Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
