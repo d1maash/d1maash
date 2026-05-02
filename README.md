@@ -1,19 +1,29 @@
 <!-- Profile Header -->
-<h1 align="left">Hey, I'm Dimash  </h1> 
+<h1 align="left">Dimash</h1>
+
 <p><b>Developer • Founder • Designer</b></p>
-<p>Building bold things with bold people.</p>
- 
----
-  
-## Building 
-- **Kelbetty AI** — Translating pain into clinical clarity 
-- **JOIN-WAY** — premium web studio (50+ projects)  
-- **NOOMI** — AI-powered finance tracker  
+
+Building products at the intersection of AI, design, and real-world problems.
+
 ---
 
-### GitHub Activity
+## Building
+
+### Kelbetty AI
+Translating pain into clinical clarity.
+
+### JOIN-WAY
+Premium web studio with 50+ shipped projects.
+
+### JoinWay Learn
+AI-powered platform for learning languages.
+
+### NOOMI
+AI-powered finance tracker for smarter money decisions.
+
+<!-- ### GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/d1maash)
-
+-->
 ### Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
