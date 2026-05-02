@@ -9,17 +9,10 @@ Building products at the intersection of AI, design, and real-world problems.
 
 ## Building
 
-### Kelbetty AI
-Translating pain into clinical clarity.
-
-### JOIN-WAY
-Premium web studio with 50+ shipped projects.
-
-### JoinWay Learn
-AI-powered platform for learning languages.
-
-### NOOMI
-AI-powered finance tracker for smarter money decisions.
+- **Kelbetty AI** — Translating pain into clinical clarity.
+- **JOIN-WAY** — Premium web studio with 50+ shipped projects.
+- **JoinWay Learn** — AI-powered platform for learning languages.
+- **NOOMI** — AI-powered finance tracker.
 
 <!-- ### GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/d1maash)
