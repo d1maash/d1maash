@@ -13,6 +13,7 @@ Building products at the intersection of AI, design, and real-world problems.
 ### Streak  
 <img src="https://streak-stats.demolab.com?user=d1maash&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
+[![committers.top badge](https://user-badge.committers.top/kazakhstan_private/d1maash.svg)](https://user-badge.committers.top/kazakhstan_private/d1maash)
 
 ---
 ---
