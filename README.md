@@ -1,4 +1,4 @@
-<!-- Profile Header --> 
+ <!-- Profile Header -->  
 <h1 align="left">Dimash</h1>
 
 <p><b>Developer • Founder • Designer</b></p> 
