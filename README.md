@@ -2,7 +2,7 @@
 <h1 align="left">Dimash</h1>
 
 <p><b>Developer • Founder • Designer</b></p> 
-
+ 
 Building products at the intersection of AI, design, and real-world problems.
 
 ---
